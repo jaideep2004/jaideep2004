@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jaideep Singh
-- 👀 I’m interested in Web Development and love to design pixel-perfect websites
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on Full-stack web projects including MERN stack apps
+- 👀 I’m a Full Stack Web Dev and love to design pixel-perfect websites
+  
   
 
 
